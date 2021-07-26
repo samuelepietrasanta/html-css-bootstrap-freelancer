@@ -1,7 +1,101 @@
-[class^=col-]{
+.section-bg-aqua{
+    background-color: aqua;
+    height: 500px;
+}
+
+.container{
+    height: 100%;
+    width: 70%;
+    margin:0 auto
+}
+
+.row{
+    height: 33.3%;
+}
+
+.image-row{
+    height: 250px;
+}
+
+.title-row{
+    height: 150px;
+}
+
+.skills-row{
+    height: 100px;
+}
+
+.portfolio-section{
+    height: 800px;
+}
+
+.portfolio-row{
+    height: 650px;
+}
+
+.content-row{
+    height: 250px;
+}
+
+.download-row{
+    height: 100px;
+}
+
+.contacts-section{
+    height: 700px;
+}
+
+.user-input-row{
+    height: 350px;
+}
+
+.send-button-row{
     height: 200px;
 }
 
-.bg-aqua{
-    background-color: aqua;
+.footer-section{
+    height: 300px;
+}
+
+.footer-row{
+    height: 100%;
+}
+
+.copyright-section{
+    height: 150px;
+}
+.copyright-row{
+    height: 150px;
+}
+
+
+.bg-red{
+    background-color: red;
+}
+.bg-magenta{
+    background-color: magenta;
+}
+
+.bg-lightblue{
+    background-color: lightblue;
+}
+
+.bg-lightskyblue{
+    background-color: lightskyblue;
+}
+
+.bg-blue{
+    background-color: blue;
+}
+
+.bg-black{
+    background-color: black;
+}
+
+.bg-lightbrown{
+    background-color: rgb(112, 85, 85);
+}
+
+.bg-yellow{
+    background-color: yellow;
 }
