@@ -6,6 +6,11 @@ h1{
     font-size: 3rem;
 }
 
+footer{
+    background-color: teal;
+    color: white;
+}
+
 .section-bg-aquamarine{
     background-color: rgb(16, 240, 191);
     color:white;
@@ -49,4 +54,26 @@ h1{
 
 .bg-black{
     background-color: black;
+}
+
+.bg-aquamarine{
+    background-color: rgb(16, 240, 191);
+    color:white;
+}
+
+.portfolio-item > img{
+    width: 100%;
+    border-radius:.5rem;
+}
+
+#around-the-web i{
+    border:1px solid white;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    padding:5px;
+}
+
+footer span{
+    color:rgb(16, 240, 191);
 }
